@@ -7,6 +7,15 @@
   </component>
   <component name="PhpExternalFormatter">
     <option name="externalFormatter" value="PHP_CS_FIXER" />
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
   </component>
   <component name="PhpIncludePathManager">
     <include_path>
@@ -49,6 +58,10 @@
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
   <component name="PhpRuntimeConfiguration" default_stubs_path="C:\wamp64\www\phpstorm-stubs" document_root_path=".">
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpRuntimeConfiguration" default_stubs_path="C:\wamp64\www\phpstorm-stubs">
     <extensions>
       <extension name="FFI" enabled="true" />
       <extension name="LuaSandbox" enabled="true" />
@@ -99,5 +112,16 @@
       <extension name="zookeeper" enabled="true" />
       <extension name="zstd" enabled="true" />
     </extensions>
+  </component>
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
   </component>
 </project>
