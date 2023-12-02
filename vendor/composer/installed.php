@@ -3,7 +3,7 @@
         'name' => 'yiisoft/yii',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '9a6dfcb9a4ff50ba042c740dd08a152319885070',
+        'reference' => '9b7cd90e6f7f481aa006b65357b60c022050c579',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(
@@ -36,15 +36,6 @@
             'reference' => '0a0fa9780f5d4e507415a065172d26a98d02047b',
             'type' => 'library',
             'install_path' => __DIR__ . '/../doctrine/instantiator',
-            'aliases' => array(),
-            'dev_requirement' => true,
-        ),
-        'jetbrains/phpstorm-stubs' => array(
-            'pretty_version' => 'v2023.2',
-            'version' => '2023.2.0.0',
-            'reference' => '3bb9c8a1050ad324c2dca7964487fa9f081f1005',
-            'type' => 'library',
-            'install_path' => __DIR__ . '/../jetbrains/phpstorm-stubs',
             'aliases' => array(),
             'dev_requirement' => true,
         ),
@@ -672,7 +663,7 @@
         'yiisoft/yii' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '9a6dfcb9a4ff50ba042c740dd08a152319885070',
+            'reference' => '9b7cd90e6f7f481aa006b65357b60c022050c579',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(

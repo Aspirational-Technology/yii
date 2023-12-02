@@ -273,57 +273,6 @@
             "install-path": "../doctrine/instantiator"
         },
         {
-            "name": "jetbrains/phpstorm-stubs",
-            "version": "v2023.2",
-            "version_normalized": "2023.2.0.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/JetBrains/phpstorm-stubs.git",
-                "reference": "3bb9c8a1050ad324c2dca7964487fa9f081f1005"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/JetBrains/phpstorm-stubs/zipball/3bb9c8a1050ad324c2dca7964487fa9f081f1005",
-                "reference": "3bb9c8a1050ad324c2dca7964487fa9f081f1005",
-                "shasum": ""
-            },
-            "require-dev": {
-                "friendsofphp/php-cs-fixer": "@stable",
-                "nikic/php-parser": "@stable",
-                "php": "^8.0",
-                "phpdocumentor/reflection-docblock": "@stable",
-                "phpunit/phpunit": "^9.6"
-            },
-            "time": "2023-07-14T12:50:15+00:00",
-            "type": "library",
-            "installation-source": "dist",
-            "autoload": {
-                "files": [
-                    "PhpStormStubsMap.php"
-                ]
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "Apache-2.0"
-            ],
-            "description": "PHP runtime & extensions header files for PhpStorm",
-            "homepage": "https://www.jetbrains.com/phpstorm",
-            "keywords": [
-                "autocomplete",
-                "code",
-                "inference",
-                "inspection",
-                "jetbrains",
-                "phpstorm",
-                "stubs",
-                "type"
-            ],
-            "support": {
-                "source": "https://github.com/JetBrains/phpstorm-stubs/tree/v2023.2"
-            },
-            "install-path": "../jetbrains/phpstorm-stubs"
-        },
-        {
             "name": "mockery/mockery",
             "version": "0.7.2",
             "version_normalized": "0.7.2.0",
@@ -4701,7 +4650,6 @@
         "composer/installers",
         "cweagans/composer-patches",
         "doctrine/instantiator",
-        "jetbrains/phpstorm-stubs",
         "mockery/mockery",
         "myclabs/deep-copy",
         "nikic/php-parser",
