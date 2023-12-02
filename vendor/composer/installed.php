@@ -3,7 +3,7 @@
         'name' => 'yiisoft/yii',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '9b7cd90e6f7f481aa006b65357b60c022050c579',
+        'reference' => 'b77e16cfe3b3a3461b3691793c4d607c151469c1',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(
@@ -406,17 +406,6 @@
                 0 => '1.0|2.0|3.0',
             ),
         ),
-        'roave/security-advisories' => array(
-            'pretty_version' => 'dev-latest',
-            'version' => 'dev-latest',
-            'reference' => 'b4728d9c4af8c60b059c1d7872759eedacccdb12',
-            'type' => 'metapackage',
-            'install_path' => NULL,
-            'aliases' => array(
-                0 => '9999999-dev',
-            ),
-            'dev_requirement' => true,
-        ),
         'sebastian/cli-parser' => array(
             'pretty_version' => '2.0.0',
             'version' => '2.0.0.0',
@@ -663,7 +652,7 @@
         'yiisoft/yii' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '9b7cd90e6f7f481aa006b65357b60c022050c579',
+            'reference' => 'b77e16cfe3b3a3461b3691793c4d607c151469c1',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(

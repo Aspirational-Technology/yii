@@ -98,7 +98,6 @@
     "phpspec/prophecy": "*",
     "phpunit/phpunit": "^10.0",
     "phpunit/phpunit-selenium": "*",
-    "roave/security-advisories": "dev-latest",
     "symfony/flex": "*",
     "symfony/yaml": "*",
     "symfony/console": "*"
