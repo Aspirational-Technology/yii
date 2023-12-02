@@ -75,7 +75,7 @@
     ]
   },
   "require": {
-    "php": "^8.1",
+    "php": "^8.0",
     "phpseclib/mcrypt_compat": "^2.0",
     "phpseclib/phpseclib": "^3.0",
     "ext-mcrypt": "*",
@@ -95,7 +95,6 @@
     "oomphinc/composer-installers-extender": "*",
     "phing/phing": "dev-main",
     "phing/phing-composer-configurator": "dev-master",
-    "phing/task-analyzers": "dev-main",
     "phpspec/phpspec": "*",
     "phpspec/prophecy": "*",
     "phpunit/phpunit": "^10.0",
@@ -119,9 +118,8 @@
       "oomphinc/composer-installers-extender": true
     },
     "platform": {
-      "ext-mcrypt": "8.1",
-      "ext-memcached": "8.1",
-      "ext-openssl": "8.1"
+      "php": "8.3.0",
+      "ext-memcached": "8.3.0"
     }
   }
 }
