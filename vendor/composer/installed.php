@@ -3,7 +3,7 @@
         'name' => 'yiisoft/yii',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'b77e16cfe3b3a3461b3691793c4d607c151469c1',
+        'reference' => '6a86955d3dfbef301ddba7b3bf11ea495724c4b1',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(
@@ -652,7 +652,7 @@
         'yiisoft/yii' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'b77e16cfe3b3a3461b3691793c4d607c151469c1',
+            'reference' => '6a86955d3dfbef301ddba7b3bf11ea495724c4b1',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(
