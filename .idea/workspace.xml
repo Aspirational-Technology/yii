@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f9d4750-6b46-4559-94dd-bf0a3889a56c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/phpspec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/phpspec.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,8 +165,10 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
     <option name="sortByType" value="true" />
@@ -205,7 +206,11 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js..pnp.loader.mjs">
+  <component name="RunManager" selected="TestCafe.TestCafe">
+    <configuration default="true" type="JavaScriptTestRunnerTestCafe">
+      <TestCafeRunConfiguration testcafe-browser="chrome" testcafe-live-mode="false" testcafe-headless-mode="false" testcafe-node-modules="" cwd="" customArgs="" />
+      <method v="2" />
+    </configuration>
     <configuration name=".pnp.loader.mjs" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.pnp.loader.mjs" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -213,6 +218,7 @@
       <item itemvalue="Node.js..pnp.loader.mjs" />
       <item itemvalue="PHPUnit.Main" />
       <item itemvalue="PHPUnit.yii" />
+      <item itemvalue="TestCafe.TestCafe" />
     </list>
     <recent_temporary>
       <list>
@@ -370,7 +376,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701556924288</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="update">
+      <option name="closed" value="true" />
+      <created>1701560802688</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1701560802688</updated>
+    </task>
+    <task id="LOCAL-00018" summary="update">
+      <option name="closed" value="true" />
+      <created>1701561060339</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1701561060339</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TestCafe" type="JavaScriptTestRunnerTestCafe">
+    <TestCafeRunConfiguration testcafe-browser="chrome" testcafe-live-mode="false" testcafe-headless-mode="false" testcafe-node-modules="" cwd="" customArgs="" />
+    <method v="2" />
+  </configuration>
+</component>
