@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f9d4750-6b46-4559-94dd-bf0a3889a56c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/vendor/symfony/dotenv/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/symfony/dotenv/Command/DebugCommand.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/symfony/dotenv/Command/DotenvDumpCommand.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/symfony/dotenv/Dotenv.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/symfony/dotenv/Exception/ExceptionInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/symfony/dotenv/Exception/FormatException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/symfony/dotenv/Exception/FormatExceptionContext.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/symfony/dotenv/Exception/PathException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/symfony/dotenv/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/symfony/dotenv/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/symfony/dotenv/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/phpspec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/phpspec.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
-    </list>
+    <list default="true" id="3f9d4750-6b46-4559-94dd-bf0a3889a56c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -415,7 +395,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701562163028</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="update">
+      <option name="closed" value="true" />
+      <created>1701562732342</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1701562732342</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
