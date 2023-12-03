@@ -38,6 +38,7 @@ class ComposerStaticInit4f9380fed389403373ddceb7f3a344f5
             'Symfony\\Contracts\\Service\\' => 26,
             'Symfony\\Component\\Yaml\\' => 23,
             'Symfony\\Component\\String\\' => 25,
+            'Symfony\\Component\\Dotenv\\' => 25,
             'Symfony\\Component\\Console\\' => 26,
         ),
         'P' => 
@@ -103,6 +104,10 @@ class ComposerStaticInit4f9380fed389403373ddceb7f3a344f5
         'Symfony\\Component\\String\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/string',
+        ),
+        'Symfony\\Component\\Dotenv\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/dotenv',
         ),
         'Symfony\\Component\\Console\\' => 
         array (

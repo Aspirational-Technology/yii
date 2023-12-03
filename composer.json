@@ -100,7 +100,8 @@
     "phpunit/phpunit-selenium": "*",
     "symfony/flex": "*",
     "symfony/yaml": "*",
-    "symfony/console": "*"
+    "symfony/console": "*",
+    "symfony/dotenv": "*"
   },
   "extra": {
     "branch-alias": {

@@ -72,6 +72,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/console" />
       <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
       <path value="$PROJECT_DIR$/vendor/phpspec/phpspec" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dotenv" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />

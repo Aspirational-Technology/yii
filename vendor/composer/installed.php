@@ -3,7 +3,7 @@
         'name' => 'yiisoft/yii',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'cdea68e7b31e7584bd593528c1f57df460bc2dcf',
+        'reference' => '7cbbc9f3bf2971b3f91c495d5e86a4b12a2ba9df',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(
@@ -568,6 +568,15 @@
             'aliases' => array(),
             'dev_requirement' => true,
         ),
+        'symfony/dotenv' => array(
+            'pretty_version' => 'v7.0.0',
+            'version' => '7.0.0.0',
+            'reference' => '782d55cb978921499086df75888bda88888ad1c3',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../symfony/dotenv',
+            'aliases' => array(),
+            'dev_requirement' => true,
+        ),
         'symfony/flex' => array(
             'pretty_version' => 'v2.4.1',
             'version' => '2.4.1.0',
@@ -652,7 +661,7 @@
         'yiisoft/yii' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'cdea68e7b31e7584bd593528c1f57df460bc2dcf',
+            'reference' => '7cbbc9f3bf2971b3f91c495d5e86a4b12a2ba9df',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(
